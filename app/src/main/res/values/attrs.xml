@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="slideReduce">
+        <attr name="reduceBackground" format="color"/>
+        <attr name="radio_X" format="float"/>
+        <attr name="radio_Y" format="float"/>
+    </declare-styleable>
+
+</resources>
